@@ -4,7 +4,7 @@ I am a Systems Engineering student at the National Technological University and 
 In addition to my development skills, I have experience in **systems analysis**, including **requirement gathering, use case creation, domain modeling, and all aspects of system analysis**. With the knowledge acquired from various projects, I am ready to contribute and make a difference. Feel free to ask me about my projects!  
 
 ## 🌐 Socials:  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/matibangher7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AgusFdez)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/matibangher7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mat%C3%ADas-ezequiel-bangher-6b8b68225/)  
 
 # 💻 Tech Stack:  
 
